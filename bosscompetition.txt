@@ -1,9 +1,14 @@
 ABOUT:
-The competition is held from December 2nd, 3PM to January 2nd, 3PM. The voting then lasts from January 2nd, 3PM, to January 14th, 3PM. The winners will then be announced on the Discord Server at the end of the voting process.
-There will be 3 runners up (Which will ALL be added as secret bosses in the settings in the final release), and a winner, which will be a main story mode boss.
+The competition is held from December 2nd, 3PM to January 2nd, 3PM. 
+The voting then lasts from January 2nd, 3PM, to January 14th, 3PM. 
+The winners will then be announced on the Discord Server at the end of the voting process.
+There will be 3 runners up, (Which will ALL be added as secret bosses in the settings in the final release), and a winner,
+which will be a main story mode boss.
 (PS: All time is in GMT)
 
-The theme is Forest/Woods, where the player is in a Woodland (Chapter 3). You may choose to make a cutscene before the boss, (in another scene) or if wanted I can make the cutscene, (no dialogue please, the story is communicated through movements and bounces, as a bush cannot speak.)
+The theme is Forest/Woods, where the player is in a Woodland (Chapter 3). 
+You may choose to make a cutscene before the boss, (in another scene) or if wanted I can make the cutscene.
+(No dialogue please, the story is communicated through movements and bounces, as a bush cannot speak.)
 
 HOW TO MAKE:
 First of all, you need to create a new blank GDevelop project.
