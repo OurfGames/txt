@@ -13,9 +13,9 @@ You may choose to make a cutscene before the boss, (in another scene) or if want
 HOW TO MAKE:
 First of all, you need to create a new blank GDevelop project.
 Then rename the “Untitled Scene” to the name of your boss.
-Then, go to your game’s properties, find “Project File Type” and change it from “Single file (Default)” to “Multiple files, saved in folder next to the main file.
+Then, go to your game’s properties, find “Project File Type” and change it from “Single file (Default)” to “Multiple files, saved in folder next to the main file".
 Then get creative!
-When your boss (and also cutscene, if you made one) is finished, please contact me via Discord, and I will enter it into the competition.
+When your boss (and also cutscene (s), if you made one) is finished, please contact me via Discord, and I will enter it into the competition.
 
 Thanks for reading!
 -Ourf 0v0
